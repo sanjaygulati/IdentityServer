@@ -1,0 +1,63 @@
+﻿[
+  {
+    "CustomerId": 1,
+    "Country": "UnitedStates",
+    "CountryGroup": "NorthAmerica",
+    "Language": "English",
+    "CultureName": "en-US",
+    "Spouse": null,
+    "Gender": "Male",
+    "Birthdate": "1966-10-14T00:00:00",
+    "StatusType": "1",
+    "StatusDescription": "Marketing Executive",
+    "IsTestCustomer": false,
+    "FirstName": "Sherrie",
+    "LastName": "Booth",
+    "Contact": {
+      "Phones": [
+        {
+          "PhoneNumber": "123456789",
+          "IsPreferredPhone": false,
+          "ContactType": "Mobile"
+        }
+      ],
+      "EmailAddress": "abc@example.com",
+      "SecondaryEmailAddress": null
+    },
+    "Nationality": 0,
+    "IsPermanentResident": false,
+    "CustomerPictureExists": false,
+    "CustomerOccupation": null
+  },
+  {
+      "CustomerId": 2,
+      "Country": "UnitedStates",
+      "CountryGroup": "NorthAmerica",
+      "Language": "English",
+      "CultureName": "en-US",
+      "Spouse": null,
+      "Gender": "Male",
+      "Birthdate": "1966-10-14T00:00:00",
+      "StatusType": "54",
+      "StatusDescription": "National Director IX",
+      "IsTestCustomer": false,
+      "FirstName": "Jef",
+      "LastName": "Clark",
+      "Contact": {
+        "Phones": [
+          {
+            "PhoneNumber": "2082082088",
+            "IsPreferredPhone": false,
+            "ContactType": "Mobile"
+          }
+        ],
+        "EmailAddress": "abc1@example.com",
+        "SecondaryEmailAddress": null
+      },
+      "Nationality": 0,
+      "IsPermanentResident": false,
+      "CustomerPictureExists": false,
+      "CustomerOccupation": null
+    }
+]
+
